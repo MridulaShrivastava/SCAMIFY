@@ -40,12 +40,8 @@ Future Work
 •	Improve the front-end for a more seamless user experience.
 •	Add user authentication and result history tracking features.
 
-Contributors
-Disha Dutta- Developer
-Kumari Sonam- Developer
-Mridula Shrivastava- Developer
-Muskan Atray- Developer
-Praavinya Chaturvedi- Developer
+
+
 
 
 
