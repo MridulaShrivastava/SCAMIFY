@@ -49,4 +49,4 @@ Future Work
 
 =======
 # SCAMIFY
->>>>>>> 36be2e3b9b420e826134dcbdcab7ef5ff8c5bfe6
+>>>>>>>
