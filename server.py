@@ -12,6 +12,7 @@ CORS(app, resources={r"/api/*": {"origins": "http://localhost:3000"}})
 model_path = "phishing_model.pkl"
 feature_path = "feature_names.pkl"
 
+
 if os.path.exists(model_path) and os.path.exists(feature_path):
     model = joblib.load(model_path)
     feature_names = joblib.load(feature_path)
